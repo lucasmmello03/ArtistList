@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ComposeInit"
+rootProject.name = "ArtistList"
 include(":app")
